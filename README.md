@@ -7,6 +7,8 @@
 
 ## 깃허브 커밋 메시지 수정하기 https://xtring-dev.tistory.com/entry/Git-%EC%9D%B4%EB%AF%B8-commit%ED%95%9C-%EB%A9%94%EC%84%B8%EC%A7%80-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0-%EB%B0%94%EB%A1%9C-%EC%9D%B4%EC%A0%84%EA%B7%B8-%EC%A0%84%EB%A6%AC%EB%AA%A8%ED%8A%B8-commit // 검색어 : 깃허브 커밋 메세지 수정
 
+
+## 마크다운 문법의 기본적인 사용 방법 정리  https://comeinsidebox.com/markdown/#-4  // 총망라의 느낌, 정리 잘 되어있음
 1. 첫번째
 1. 두번째
 1. 세번째
