@@ -11,7 +11,7 @@
 
 ## https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=%EA%B9%83%ED%97%88%EB%B8%8C+%ED%91%9C%EC%A7%80&oquery=realworld&tqi=hzCW7lp0J14ssdS%2Ft0KssssstwV-490969//깃허브 페이지 세팅법
 
-## 마크다운 문법의 기본적인 사용 방법 정리  https://comeinsidebox.com/markdown/#-4  // 총망라의 느낌, 정리 잘 되어있음
+## 마크다운 문법의 기본적인 사용 방법 정리  https://comeinsidebox.com/markdown/#-4  // 전체 정리, 정리 잘 되어있음
 1. 첫번째
 1. 두번째
 1. 세번째
